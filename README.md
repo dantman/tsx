@@ -20,7 +20,7 @@ TypeScript Execute (tsx): The easiest way to run TypeScript in Node.js
 	<a href="https://github.com/sponsors/privatenumber/sponsorships?tier_id=398771"><img width="412" src="https://raw.githubusercontent.com/privatenumber/sponsors/master/banners/assets/donate.webp"></a>
 	<a href="https://github.com/sponsors/privatenumber/sponsorships?tier_id=416984"><img width="412" src="https://raw.githubusercontent.com/privatenumber/sponsors/master/banners/assets/sponsor.webp"></a>
 </p>
-<p align="center"><sup><i>Already a sponsor?</i> Join the discussion in the <a href="https://github.com/pvtnbr/tsx">Development repo</a>!</sup></p>
+<p align="center"><sup><i>Already a sponsor?</i> Join the discussion in the <a href="https://github.com/privatenumber/tsx">Development repo</a>!</sup></p>
 
 ## Sponsors
 

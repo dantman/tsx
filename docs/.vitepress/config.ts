@@ -181,7 +181,7 @@ export default defineConfig({
 						},
 						{
 							text: 'Help center (Sponsors only)',
-							link: 'https://github.com/pvtnbr/tsx/discussions',
+							link: 'https://github.com/privatenumber/tsx/discussions',
 						},
 						{
 							text: 'Become a Sponsor',
